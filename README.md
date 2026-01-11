@@ -46,7 +46,7 @@ Explore nosso conjunto de aplicações, cursos e utilitários disponíveis exclu
   `http://seckfekplrzcc6t6i4ozqnphdt6iogxw4kqt6rrv6v64zaqgg5mnwkqd.onion`
 
 - 🔎 **Search** – Busca Privada e Segura  
-  `http://sece4w5t7s7a2c7ivjr3glxx2cdy2pwrttk5i5cgmiows4iv6rdoirid.onion`
+  `http://secyx2znoybxgpsbfsakqjbhmjmzhjsf4y43tjtpxycdilks35o2rgid.onion/`
 
 ---
 
@@ -57,13 +57,6 @@ Explore nosso conjunto de aplicações, cursos e utilitários disponíveis exclu
 
 - 🎨 **Imagens DevianArt (Scraping)**  
   `http://secx4gqwouiwlvmlfovx3kuk6konxdydhp3isftjuyrofvczbyhdnqyd.onion`
-
----
-
-### 🎥 Mídia Alternativa
-
-- 📺 **Invidious (Frontend alternativo ao YouTube)**  
-  `http://secyx2znoybxgpsbfsakqjbhmjmzhjsf4y43tjtpxycdilks35o2rgid.onion`
 
 ---
 
