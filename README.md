@@ -1,4 +1,4 @@
-# 🕶️ Security Ops — Tor Network Services
+# 🕶️ Security Ops - Tor Network Services
 
 Privacy-focused, minimal, decentralized services **exclusively on Tor**.
 
